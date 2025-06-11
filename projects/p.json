@@ -2,7 +2,7 @@
   {
     "name": "Dhaka Metro Map Project",
     "desc": "This project is a Java-based application that simulates a representation of the Dhaka Metro Map using graph data structures.",
-    "image": "../assets/images/projects/Metro.png",
+    "image": "metro",
     "category": "android",
     "links": {
       "view": "#",
@@ -11,8 +11,8 @@
   },
   {
     "name": "Smart Healthcare System (Dec 2024)",
-    "desc": "This project is a machine learning-based web application designed to predict diseases based on symptoms provided by the user.",
-    "image": "../assets/images/projects/SmartHospital.png",
+    "desc": "This project is a machine learning-based web application designed to predict diseases based on symptoms provided by the use",
+    "image": "SmartHospital",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -21,8 +21,8 @@
   },
   {
     "name": "Travel Website (Jun 2024)",
-    "desc": "This project is a web-based application that includes a variety of features implemented using HTML, CSS, JavaScript, and PHP.",
-    "image": "../assets/images/projects/images.png",
+    "desc": "his project is a web-based application that includes a variety of features implemented using HTML, CSS, JavaScript, and PHP.",
+    "image": "images",
     "category": "android",
     "links": {
       "view": "#",
@@ -31,8 +31,8 @@
   },
   {
     "name": "Real-time Chat Application (Jun 2024)",
-    "desc": "This project is a chat application built using JavaFX. It provides a user-friendly interface for real-time communication between clients and a server.",
-    "image": "../assets/images/projects/cht.png",
+    "desc": "NThis project is a chat application built using JavaFX. It provides a user-friendly interface for real-time communication between clients and a server",
+    "image": "cht",
     "category": "android",
     "links": {
       "view": "#",
@@ -41,8 +41,8 @@
   },
   {
     "name": "Text Editor Project (Dec 2022)",
-    "desc": "A simple text editor application built using Java Swing. This project demonstrates the use of JMenu and JMenuItem to create a functional menu bar for file and editing operations.",
-    "image": "../assets/images/projects/text.png",
+    "desc": "FA simple text editor application built using Java Swing. This project demonstrates the use of JMenu and JMenuItem to create a functional menu bar for file and editing operations.",
+    "image": "text",
     "category": "mern",
     "links": {
       "view": "https://instagramernstack.herokuapp.com/",
@@ -51,8 +51,8 @@
   },
   {
     "name": "OS Services Simulation using Shell Script (Jun 2024)",
-    "desc": "This project simulates various Operating System services through a shell script, allowing users to explore and understand fundamental algorithms in OS concepts. It features simulations of CPU Scheduling Algorithms, Page Replacement Algorithms, and Contiguous Memory Allocation Algorithms.",
-    "image": "../assets/images/projects/os.png",
+    "desc": "This project simulates various Operating System services through a shell script, allowing users to explore and understand fundamental algorithms in OS concepts. It features simulations of CPU Scheduling Algorithms, Page Replacement Algorithms, and Contiguous Memory Allocation Algorithms",
+    "image": "os",
     "category": "mern",
     "links": {
       "view": "#",
